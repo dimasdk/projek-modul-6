@@ -5,10 +5,11 @@
     <form method="POST" action="{{ route('login') }}">
         @csrf
 
-        <!-- Email Address -->
-     <!-- * Nama     : Davin Wahyu Wardana
-     * NIM      : 6706223003
-     * Kelas    : 4603 -->
+     <!-- Nama    : Dimas Dwi Kurniawan
+      NIM     : 6706220041
+      Kelas   : D3IF 4603 
+      -->
+
         <div>
             <x-input-label for="username" :value="__('Username')" />
             <x-text-input id="username" class="block mt-1 w-full" type="text" name="username" :value="old('username')" required autofocus autocomplete="username" />

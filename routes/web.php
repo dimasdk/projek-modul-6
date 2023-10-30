@@ -7,7 +7,7 @@ use App\Http\Controllers\TransaksiController;
 use App\Http\Controllers\Auth\RegisteredUserController;
 use Illuminate\Support\Facades\Route;
 
-// Nama    :Dimas Dwi Kurniawan
+// Nama    : Dimas Dwi Kurniawan
 // NIM     : 6706220041
 // Kelas   : D3IF-4603 
 
